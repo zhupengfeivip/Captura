@@ -1,9 +1,13 @@
 # 说明
 官方9.0一直处于beta状态，且已不再发布。最新的8.0里把中文包分为中文中国和中文台湾，9.0的已是中文简体和中文繁体。所以这里发布一个9.0的release版本，请大家使用9.0的版本。
 
-9.0的界面截图
+9.0的界面截图  
+![image](https://user-images.githubusercontent.com/30720809/115320777-134e8e80-a1b5-11eb-995e-7b1c5ebb84cc.png)
+![image](https://user-images.githubusercontent.com/30720809/115320805-206b7d80-a1b5-11eb-915f-79f140d56fd6.png)
 
-
+8.0的界面截图  
+![image](https://user-images.githubusercontent.com/30720809/115320879-41cc6980-a1b5-11eb-879f-e0a84b542645.png)
+![image](https://user-images.githubusercontent.com/30720809/115320948-67f20980-a1b5-11eb-8be3-304ea18701af.png)
 
 
 -------------以下为官方内容--------------
