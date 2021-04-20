@@ -1,3 +1,13 @@
+# 说明
+官方9.0一直处于beta状态，且已不再发布。最新的8.0里把中文包分为中文中国和中文台湾，9.0的已是中文简体和中文繁体。所以这里发布一个9.0的release版本，请大家使用9.0的版本。
+
+9.0的界面截图
+
+
+
+
+-------------以下为官方内容--------------
+
 ![Captura](https://mathewsachin.github.io/Captura/assets/Banner.png)
 
 [![Master Build Status](https://img.shields.io/appveyor/ci/MathewSachin/Captura/master.svg?style=flat-square&logo=appveyor)](https://ci.appveyor.com/project/MathewSachin/Captura)
